@@ -1,4 +1,4 @@
-###Initial set-up for mapbox using reactjs
+### Initial set-up for mapbox using reactjs
 
 ## Requirements
 You have to provide access token from mapbox
